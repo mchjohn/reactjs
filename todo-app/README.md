@@ -19,7 +19,7 @@ Para rodar o projeto no seu computador:
 
 No terminal digite:
 
-`git clone https://github.com/mchjohn/reactjs/todo-app.git`
+`git clone https://github.com/mchjohn/reactjs.git`
 
 Entre na pasta backend dentro de todo-app:
 
